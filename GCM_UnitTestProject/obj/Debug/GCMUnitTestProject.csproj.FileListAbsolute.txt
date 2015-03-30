@@ -1,0 +1,7 @@
+c:\users\shriram\documents\visual studio 2012\projects\ConsoleApplication2\GCM_UnitTestProject\bin\Debug\GCM_UnitTestProject.dll
+c:\users\shriram\documents\visual studio 2012\projects\ConsoleApplication2\GCM_UnitTestProject\bin\Debug\GCM_UnitTestProject.pdb
+c:\users\shriram\documents\visual studio 2012\projects\ConsoleApplication2\GCM_UnitTestProject\obj\Debug\GCMUnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\shriram\documents\visual studio 2012\projects\ConsoleApplication2\GCM_UnitTestProject\obj\Debug\GCM_UnitTestProject.dll
+c:\users\shriram\documents\visual studio 2012\projects\ConsoleApplication2\GCM_UnitTestProject\obj\Debug\GCM_UnitTestProject.pdb
+c:\users\shriram\documents\visual studio 2012\projects\ConsoleApplication2\GCM_UnitTestProject\bin\Debug\ConsoleApplication2.exe
+c:\users\shriram\documents\visual studio 2012\projects\ConsoleApplication2\GCM_UnitTestProject\bin\Debug\ConsoleApplication2.pdb
